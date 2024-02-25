@@ -10,7 +10,7 @@ authors = ["scepter914 <scepter914@gmail.com>"]
 readme = "README.md"
 documentation = "https://docs.rs/object_detection"
 repository = "https://github.com/scepter914/carrot-interface-rs"
-categories = ["Computer-vision"]
+categories = ["computer-vision"]
 keywords = ["image", "vision", "object_detection"]
 
 [dependencies]
