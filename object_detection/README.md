@@ -13,12 +13,14 @@
 - toml
 
 ```toml
-object_detection = "0.1.1"
+object_detection = "0.1.2"
 ```
 
 ## History
 
 - For next release
+- v0.1.2
+  - Fix mod name
 - v0.1.1
   - Fix mod name
 - v0.1.0
