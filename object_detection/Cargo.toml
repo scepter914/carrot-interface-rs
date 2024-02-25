@@ -1,0 +1,22 @@
+[package]
+name = "object_detection"
+version = "0.1.0"
+edition = "2021"
+
+license = "MIT"
+description = "The interface for object detection"
+authors = ["scepter914 <scepter914@gmail.com>"]
+
+readme = "README.md"
+documentation = "https://docs.rs/object_detection"
+repository = "https://github.com/scepter914/carrot-interface-rs"
+categories = ["Computer-vision"]
+keywords = ["image", "vision", "object_detection"]
+
+[dependencies]
+image = "0.24"
+imageproc = "0.23"
+
+carrot_utils = "0.1.7"
+carrot_image_utils = "0.1.10"
+carrot_common_interface = "0.1.0"
